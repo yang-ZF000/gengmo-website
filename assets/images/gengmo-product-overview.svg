@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2000" font-family="'PingFang SC','Microsoft YaHei','Hiragino Sans GB','Noto Sans CJK SC',sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1c38"/>
+      <stop offset="1" stop-color="#0c2547"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f80ed"/>
+      <stop offset="1" stop-color="#7b61ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1600" height="2000" fill="url(#bg)"/>
+
+  <!-- ===== HEADER ===== -->
+  <text x="60" y="112" font-size="48" font-weight="700" fill="#ffffff">耕墨电子 <tspan fill="#7fb0ff" font-size="40">GENGMO</tspan></text>
+  <text x="62" y="162" font-size="26" fill="#8fb3e0">围绕无线传输与智能感知 · 构建六大核心产品矩阵</text>
+  <rect x="62" y="186" width="260" height="6" rx="3" fill="url(#line)"/>
+  <text x="1540" y="112" text-anchor="end" font-size="22" fill="#6f8bb5">产品矩阵总览 · 2026</text>
+
+  <!-- ===== CARD 1 : AMPAK ===== -->
+  <g>
+    <rect x="60" y="250" width="720" height="430" rx="18" fill="#10294d" stroke="#2f80ed" stroke-opacity="0.45" stroke-width="1.5"/>
+    <rect x="60" y="250" width="720" height="9" rx="4" fill="#2f80ed"/>
+    <circle cx="740" cy="294" r="26" fill="none" stroke="#2f80ed" stroke-width="2"/>
+    <text x="740" y="302" text-anchor="middle" font-size="22" font-weight="700" fill="#2f80ed">01</text>
+    <text x="92" y="312" font-size="34" font-weight="700" fill="#ffffff">正基 AMPAK</text>
+    <text x="92" y="346" font-size="22" fill="#2f80ed">Wi-Fi / 蓝牙模组 · 5G RedCap</text>
+    <text x="92" y="392" font-size="20" font-weight="700" fill="#ffffff">■ 主推型号</text>
+    <rect x="92" y="409" width="6" height="6" fill="#2f80ed"/><text x="108" y="417" font-size="19" fill="#cdd9ec">AP6684P · Wi-Fi 7 RSDB 双路并发</text>
+    <rect x="92" y="439" width="6" height="6" fill="#2f80ed"/><text x="108" y="447" font-size="19" fill="#cdd9ec">AP6275P · Wi-Fi 6E 2×2 模组</text>
+    <rect x="92" y="469" width="6" height="6" fill="#2f80ed"/><text x="108" y="477" font-size="19" fill="#cdd9ec">AP6611S · Wi-Fi 6E 1×1 模组</text>
+    <rect x="92" y="499" width="6" height="6" fill="#2f80ed"/><text x="108" y="507" font-size="19" fill="#cdd9ec">5G RedCap 蜂窝模组（中高速物联）</text>
+    <text x="92" y="552" font-size="20" font-weight="700" fill="#ffffff">■ 核心优势</text>
+    <text x="92" y="584" font-size="18" fill="#b8c6dd">• RSDB 双路并发无延迟、不降吞吐</text>
+    <text x="92" y="612" font-size="18" fill="#b8c6dd">• LE Audio / Thread 边界路由（Matter）</text>
+    <text x="92" y="640" font-size="18" fill="#b8c6dd">• 覆盖 Wi-Fi 5/6/6E/7 + BT 5.3/6.0</text>
+  </g>
+
+  <!-- ===== CARD 2 : ONMICRO ===== -->
+  <g>
+    <rect x="820" y="250" width="720" height="430" rx="18" fill="#10294d" stroke="#7b61ff" stroke-opacity="0.45" stroke-width="1.5"/>
+    <rect x="820" y="250" width="720" height="9" rx="4" fill="#7b61ff"/>
+    <circle cx="1500" cy="294" r="26" fill="none" stroke="#7b61ff" stroke-width="2"/>
+    <text x="1500" y="302" text-anchor="middle" font-size="22" font-weight="700" fill="#7b61ff">02</text>
+    <text x="852" y="312" font-size="34" font-weight="700" fill="#ffffff">昂瑞微 ONMICRO</text>
+    <text x="852" y="346" font-size="22" fill="#7b61ff">射频前端芯片 · 射频 SoC</text>
+    <text x="852" y="392" font-size="20" font-weight="700" fill="#ffffff">■ 主推型号</text>
+    <rect x="852" y="409" width="6" height="6" fill="#7b61ff"/><text x="868" y="417" font-size="19" fill="#cdd9ec">OM6629C · BLE 5.4 旗舰 SoC</text>
+    <rect x="852" y="439" width="6" height="6" fill="#7b61ff"/><text x="868" y="447" font-size="19" fill="#cdd9ec">OM6627C · 中高端 BLE SoC</text>
+    <rect x="852" y="469" width="6" height="6" fill="#7b61ff"/><text x="868" y="477" font-size="19" fill="#cdd9ec">L-PAMiF OM9576-22 · Sub-6GHz</text>
+    <rect x="852" y="499" width="6" height="6" fill="#7b61ff"/><text x="868" y="507" font-size="19" fill="#cdd9ec">MMMB PA / 卫星通信 PA</text>
+    <text x="852" y="552" font-size="20" font-weight="700" fill="#ffffff">■ 核心优势</text>
+    <text x="852" y="584" font-size="18" fill="#b8c6dd">• 全栈射频前端 + 超低功耗蓝牙 SoC</text>
+    <text x="852" y="612" font-size="18" fill="#b8c6dd">• 支持 NTN 卫星通信（非地面网络）</text>
+    <text x="852" y="640" font-size="18" fill="#b8c6dd">• -40 ~ +85℃ 工业级工作温度</text>
+  </g>
+
+  <!-- ===== CARD 3 : SENSYLINK ===== -->
+  <g>
+    <rect x="60" y="716" width="720" height="430" rx="18" fill="#10294d" stroke="#11b883" stroke-opacity="0.45" stroke-width="1.5"/>
+    <rect x="60" y="716" width="720" height="9" rx="4" fill="#11b883"/>
+    <circle cx="740" cy="760" r="26" fill="none" stroke="#11b883" stroke-width="2"/>
+    <text x="740" y="768" text-anchor="middle" font-size="22" font-weight="700" fill="#11b883">03</text>
+    <text x="92" y="778" font-size="34" font-weight="700" fill="#ffffff">申矽凌 Sensylink</text>
+    <text x="92" y="812" font-size="22" fill="#11b883">传感器 · 混合信号芯片</text>
+    <text x="92" y="858" font-size="20" font-weight="700" fill="#ffffff">■ 主推型号</text>
+    <rect x="92" y="875" width="6" height="6" fill="#11b883"/><text x="108" y="883" font-size="19" fill="#cdd9ec">CT7117 · 温度传感器 ±0.1℃</text>
+    <rect x="92" y="905" width="6" height="6" fill="#11b883"/><text x="108" y="913" font-size="19" fill="#cdd9ec">CHT8320 · 数字温湿度传感器</text>
+    <rect x="92" y="935" width="6" height="6" fill="#11b883"/><text x="108" y="943" font-size="19" fill="#cdd9ec">CA95xx · I2C IO 扩展</text>
+    <rect x="92" y="965" width="6" height="6" fill="#11b883"/><text x="108" y="973" font-size="19" fill="#cdd9ec">CAD2726 · 功率监测芯片</text>
+    <text x="92" y="1018" font-size="20" font-weight="700" fill="#ffffff">■ 核心优势</text>
+    <text x="92" y="1050" font-size="18" fill="#b8c6dd">• 500+ 款自主知识产权量产型号</text>
+    <text x="92" y="1078" font-size="18" fill="#b8c6dd">• 高精度 ±0.1℃ / ±3%RH</text>
+    <text x="92" y="1106" font-size="18" fill="#b8c6dd">• 车规 -Q · 传感+接口+电源一站式</text>
+  </g>
+
+  <!-- ===== CARD 4 : GSR / SANWU ===== -->
+  <g>
+    <rect x="820" y="716" width="720" height="430" rx="18" fill="#10294d" stroke="#f2994a" stroke-opacity="0.45" stroke-width="1.5"/>
+    <rect x="820" y="716" width="720" height="9" rx="4" fill="#f2994a"/>
+    <circle cx="1500" cy="760" r="26" fill="none" stroke="#f2994a" stroke-width="2"/>
+    <text x="1500" y="768" text-anchor="middle" font-size="22" font-weight="700" fill="#f2994a">04</text>
+    <text x="852" y="778" font-size="34" font-weight="700" fill="#ffffff">三伍微 GSR</text>
+    <text x="852" y="812" font-size="22" fill="#f2994a">IoT FEM · 射频前端</text>
+    <text x="852" y="858" font-size="20" font-weight="700" fill="#ffffff">■ 主推型号</text>
+    <rect x="852" y="875" width="6" height="6" fill="#f2994a"/><text x="868" y="883" font-size="19" fill="#cdd9ec">GSR2501 / 2401 · IoT FEM 2.4G</text>
+    <rect x="852" y="905" width="6" height="6" fill="#f2994a"/><text x="868" y="913" font-size="19" fill="#cdd9ec">GSR2701 · 30.5dBm 高功率</text>
+    <rect x="852" y="935" width="6" height="6" fill="#f2994a"/><text x="868" y="943" font-size="19" fill="#cdd9ec">GSR5701 · 5.8G ISM FEM</text>
+    <rect x="852" y="965" width="6" height="6" fill="#f2994a"/><text x="868" y="973" font-size="19" fill="#cdd9ec">RF Switch / LNA 全系射频前端</text>
+    <text x="852" y="1018" font-size="20" font-weight="700" fill="#ffffff">■ 核心优势</text>
+    <text x="852" y="1050" font-size="18" fill="#b8c6dd">• 国内 IoT FEM 领跑 / 行业前三</text>
+    <text x="852" y="1078" font-size="18" fill="#b8c6dd">• 自研 PA 功耗 ↓60%</text>
+    <text x="852" y="1106" font-size="18" fill="#b8c6dd">• P2P 兼容 Skyworks · 大基金投资</text>
+  </g>
+
+  <!-- ===== CARD 5 : WUQI ===== -->
+  <g>
+    <rect x="60" y="1182" width="720" height="430" rx="18" fill="#10294d" stroke="#eb5757" stroke-opacity="0.45" stroke-width="1.5"/>
+    <rect x="60" y="1182" width="720" height="9" rx="4" fill="#eb5757"/>
+    <circle cx="740" cy="1226" r="26" fill="none" stroke="#eb5757" stroke-width="2"/>
+    <text x="740" y="1234" text-anchor="middle" font-size="22" font-weight="700" fill="#eb5757">05</text>
+    <text x="92" y="1244" font-size="34" font-weight="700" fill="#ffffff">物奇 WUQI</text>
+    <text x="92" y="1278" font-size="22" fill="#eb5757">Wi-Fi · 蓝牙 · PLC · 端侧 AI</text>
+    <text x="92" y="1324" font-size="20" font-weight="700" fill="#ffffff">■ 主推型号</text>
+    <rect x="92" y="1341" width="6" height="6" fill="#eb5757"/><text x="108" y="1349" font-size="19" fill="#cdd9ec">WQ9301 · Wi-Fi 6 路由芯片</text>
+    <rect x="92" y="1371" width="6" height="6" fill="#eb5757"/><text x="108" y="1379" font-size="19" fill="#cdd9ec">WQ9201 · Wi-Fi 6 + BT Combo</text>
+    <rect x="92" y="1401" width="6" height="6" fill="#eb5757"/><text x="108" y="1409" font-size="19" fill="#cdd9ec">WQ7036 · 智能音频主控</text>
+    <rect x="92" y="1431" width="6" height="6" fill="#eb5757"/><text x="108" y="1439" font-size="19" fill="#cdd9ec">WQ5008 / WQ3001 · 视觉 / PLC</text>
+    <text x="92" y="1484" font-size="20" font-weight="700" fill="#ffffff">■ 核心优势</text>
+    <text x="92" y="1516" font-size="18" fill="#b8c6dd">• RISC-V + 安全 NPU 200G OPS</text>
+    <text x="92" y="1544" font-size="18" fill="#b8c6dd">• 工信部自主可控认证</text>
+    <text x="92" y="1572" font-size="18" fill="#b8c6dd">• AEC-Q100 车规 · 四大产品线</text>
+  </g>
+
+  <!-- ===== CARD 6 : BLUETOOTH ===== -->
+  <g>
+    <rect x="820" y="1182" width="720" height="430" rx="18" fill="#10294d" stroke="#1ab6c8" stroke-opacity="0.45" stroke-width="1.5"/>
+    <rect x="820" y="1182" width="720" height="9" rx="4" fill="#1ab6c8"/>
+    <circle cx="1500" cy="1226" r="26" fill="none" stroke="#1ab6c8" stroke-width="2"/>
+    <text x="1500" y="1234" text-anchor="middle" font-size="22" font-weight="700" fill="#1ab6c8">06</text>
+    <text x="852" y="1244" font-size="34" font-weight="700" fill="#ffffff">蓝牙方案 Bluetooth</text>
+    <text x="852" y="1278" font-size="22" fill="#1ab6c8">一站式蓝牙解决方案</text>
+    <text x="852" y="1324" font-size="20" font-weight="700" fill="#ffffff">■ 主推型号</text>
+    <rect x="852" y="1341" width="6" height="6" fill="#1ab6c8"/><text x="868" y="1349" font-size="19" fill="#cdd9ec">RTL8762 · CMF 蓝牙芯片</text>
+    <rect x="852" y="1371" width="6" height="6" fill="#1ab6c8"/><text x="868" y="1379" font-size="19" fill="#cdd9ec">物奇蓝牙 SoC 方案</text>
+    <rect x="852" y="1401" width="6" height="6" fill="#1ab6c8"/><text x="868" y="1409" font-size="19" fill="#cdd9ec">遥控器 / ADAS 预警方案</text>
+    <rect x="852" y="1431" width="6" height="6" fill="#1ab6c8"/><text x="868" y="1439" font-size="19" fill="#cdd9ec">ANC 智能耳机方案</text>
+    <text x="852" y="1484" font-size="20" font-weight="700" fill="#ffffff">■ 核心优势</text>
+    <text x="852" y="1516" font-size="18" fill="#b8c6dd">• 成熟一站式蓝牙方案</text>
+    <text x="852" y="1544" font-size="18" fill="#b8c6dd">• 遥控 / ADAS / 耳机全覆盖</text>
+    <text x="852" y="1572" font-size="18" fill="#b8c6dd">• 灵活定制 · 快速量产</text>
+  </g>
+
+  <!-- ===== FOOTER : COMPETITIVENESS ===== -->
+  <g>
+    <rect x="60" y="1650" width="1480" height="330" rx="18" fill="#0e2240" stroke="#1b3a63" stroke-width="1.5"/>
+    <text x="92" y="1702" font-size="30" font-weight="700" fill="#ffffff">综合竞争力 · 为什么选择耕墨</text>
+
+    <g>
+      <rect x="92" y="1730" width="268" height="150" rx="12" fill="#163a66"/>
+      <text x="116" y="1772" font-size="22" font-weight="700" fill="#2f80ed">六大矩阵</text>
+      <text x="116" y="1810" font-size="18" fill="#cdd9ec">无线连接 + 智能感知</text>
+      <text x="116" y="1836" font-size="18" fill="#cdd9ec">全栈产品覆盖</text>
+    </g>
+    <g>
+      <rect x="380" y="1730" width="268" height="150" rx="12" fill="#163a66"/>
+      <text x="404" y="1772" font-size="22" font-weight="700" fill="#7b61ff">国产自主</text>
+      <text x="404" y="1810" font-size="18" fill="#cdd9ec">头部原厂授权</text>
+      <text x="404" y="1836" font-size="18" fill="#cdd9ec">加速国产替代</text>
+    </g>
+    <g>
+      <rect x="668" y="1730" width="268" height="150" rx="12" fill="#163a66"/>
+      <text x="692" y="1772" font-size="22" font-weight="700" fill="#11b883">一站式选型</text>
+      <text x="692" y="1810" font-size="18" fill="#cdd9ec">模组/芯片/传感器</text>
+      <text x="692" y="1836" font-size="18" fill="#cdd9ec">/ 方案齐备</text>
+    </g>
+    <g>
+      <rect x="956" y="1730" width="268" height="150" rx="12" fill="#163a66"/>
+      <text x="980" y="1772" font-size="22" font-weight="700" fill="#f2994a">车规 &amp; 工业级</text>
+      <text x="980" y="1810" font-size="18" fill="#cdd9ec">AEC-Q100</text>
+      <text x="980" y="1836" font-size="18" fill="#cdd9ec">工业温度 · 高可靠</text>
+    </g>
+    <g>
+      <rect x="1244" y="1730" width="268" height="150" rx="12" fill="#163a66"/>
+      <text x="1268" y="1772" font-size="22" font-weight="700" fill="#1ab6c8">海量量产</text>
+      <text x="1268" y="1810" font-size="18" fill="#cdd9ec">500+ 传感器型号</text>
+      <text x="1268" y="1836" font-size="18" fill="#cdd9ec">+ 全系射频前端</text>
+    </g>
+
+    <text x="92" y="1940" font-size="20" fill="#9fb3d1">应用覆盖：消费电子 · 物联网 · 汽车 · 工业 · 电力能源 · 网络通信</text>
+  </g>
+</svg>
