@@ -27,14 +27,15 @@
     <text x="92" y="312" font-size="34" font-weight="700" fill="#ffffff">正基 AMPAK</text>
     <text x="92" y="346" font-size="22" fill="#2f80ed">Wi-Fi / 蓝牙模组 · 5G RedCap</text>
     <text x="92" y="392" font-size="20" font-weight="700" fill="#ffffff">■ 主推型号</text>
-    <rect x="92" y="409" width="6" height="6" fill="#2f80ed"/><text x="108" y="417" font-size="19" fill="#cdd9ec">AP6684P · Wi-Fi 7 RSDB 双路并发</text>
-    <rect x="92" y="439" width="6" height="6" fill="#2f80ed"/><text x="108" y="447" font-size="19" fill="#cdd9ec">AP6275P · Wi-Fi 6E 2×2 模组</text>
-    <rect x="92" y="469" width="6" height="6" fill="#2f80ed"/><text x="108" y="477" font-size="19" fill="#cdd9ec">AP6611S · Wi-Fi 6E 1×1 模组</text>
-    <rect x="92" y="499" width="6" height="6" fill="#2f80ed"/><text x="108" y="507" font-size="19" fill="#cdd9ec">5G RedCap 蜂窝模组（中高速物联）</text>
-    <text x="92" y="552" font-size="20" font-weight="700" fill="#ffffff">■ 核心优势</text>
-    <text x="92" y="584" font-size="18" fill="#b8c6dd">• RSDB 双路并发无延迟、不降吞吐</text>
-    <text x="92" y="612" font-size="18" fill="#b8c6dd">• LE Audio / Thread 边界路由（Matter）</text>
-    <text x="92" y="640" font-size="18" fill="#b8c6dd">• 覆盖 Wi-Fi 5/6/6E/7 + BT 5.3/6.0</text>
+    <rect x="92" y="409" width="6" height="6" fill="#2f80ed"/><text x="108" y="417" font-size="19" fill="#cdd9ec">AP6256 · Wi-Fi 5 1×1 模组</text>
+    <rect x="92" y="439" width="6" height="6" fill="#2f80ed"/><text x="108" y="447" font-size="19" fill="#cdd9ec">AP6684P · Wi-Fi 7 RSDB 双路并发</text>
+    <rect x="92" y="469" width="6" height="6" fill="#2f80ed"/><text x="108" y="477" font-size="19" fill="#cdd9ec">AP6275P · Wi-Fi 6E 2×2 模组</text>
+    <rect x="92" y="499" width="6" height="6" fill="#2f80ed"/><text x="108" y="507" font-size="19" fill="#cdd9ec">AP6611S · Wi-Fi 6E 1×1 模组</text>
+    <rect x="92" y="529" width="6" height="6" fill="#2f80ed"/><text x="108" y="537" font-size="19" fill="#cdd9ec">5G RedCap 蜂窝模组（中高速物联）</text>
+    <text x="92" y="582" font-size="20" font-weight="700" fill="#ffffff">■ 核心优势</text>
+    <text x="92" y="614" font-size="18" fill="#b8c6dd">• RSDB 双路并发无延迟、不降吞吐</text>
+    <text x="92" y="642" font-size="18" fill="#b8c6dd">• LE Audio / Thread 边界路由（Matter）</text>
+    <text x="92" y="670" font-size="18" fill="#b8c6dd">• 覆盖 Wi-Fi 5/6/6E/7 + BT 5.3/6.0</text>
   </g>
 
   <!-- ===== CARD 2 : ONMICRO ===== -->
